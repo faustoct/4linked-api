@@ -263,6 +263,11 @@ escape-string-regexp@^1.0.5:
   resolved "https://registry.yarnpkg.com/escape-string-regexp/-/escape-string-regexp-1.0.5.tgz#1b61c0562190a8dff6ae3bb2cf0200ca130b86d4"
   integrity sha1-G2HAViGQqN/2rjuyzwIAyhMLhtQ=
 
+expo-image-picker@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/expo-image-picker/-/expo-image-picker-4.0.0.tgz#42bbf2d4691559e533eb5425408bb995e7b5cb0c"
+  integrity sha512-iMg0/vRIicY6Il/PJaCcuhyTjlP53jf+bu47k26cNpfOpfhvBFKg/syd6IyVIzDYFKpfVUOinHGIf7QlZo3ydw==
+
 extend@~3.0.1, extend@~3.0.2:
   version "3.0.2"
   resolved "https://registry.yarnpkg.com/extend/-/extend-3.0.2.tgz#f8b1136b4071fbd8eb140aff858b1019ec2915fa"
